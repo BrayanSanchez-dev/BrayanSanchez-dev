@@ -1,4 +1,4 @@
-#👋 Brayan Ronaldo Sànchez
+#👋 Brayan Sànchez
 
 **`BackTester - BlockChain (Desarrollador/Backend/Administrador-Azure)`**
 
