@@ -5,9 +5,9 @@
 Soy un desarrollador fullstack-junior y Elaborador de estrategias de inversion en criptomonedas. Todos mis proyectos de programación se desarrollan desde cero, desde la planificación y el diseño hasta la resolución de problemas reales con código. Tambien aplico estrategias con inteligencia artificial de contratos inteligentes en solidity - Python - Javascript, desde la ideación y la planificación hasta la finalización. Como desarrollador utilizo la administracion de sistemas en la nube como tambien el uso de software libre.
 
    <p align="left"> 
-      <a href="https://github.com/BrayanSanchez-dev?tab=followers">
+      <a href="https://github.com/0xronaldo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrayanSanchez-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/BrayanSanchez-dev?tab=repositories&sort=stargazers">
+      <a href="https://github.com/0xronaldo?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrayanSanchez-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
